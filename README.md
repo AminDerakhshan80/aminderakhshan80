@@ -1,6 +1,6 @@
 ## Hi there, I'm Amin👋
 
-🧠 About Me
+## 🧠 About Me
 
 I am a Data Scientist, Data Analyst, and Business Intelligence Developer at Digikala, working on transforming complex data into actionable insights and decision-support solutions.
 My professional interests lie at the intersection of data science, machine learning, decision support systems and image processing. I am particularly interested in developing intelligent systems that combine predictive analytics, optimization, and data-driven decision-making to improve business performance and operational efficiency.
@@ -8,7 +8,7 @@ Beyond modeling and analytics, I have a strong interest in data infrastructure a
 My academic and professional journey has been shaped by a multidisciplinary background that bridges engineering, mathematical modeling, and data science, allowing me to approach problems from both analytical and systems-thinking perspectives.
 
 
-🎓 Education
+## 🎓 Education
 
 M.Sc. in Industrial Engineering — Systems Modeling & Data Analytics
 Tarbiat Modares University
@@ -30,7 +30,7 @@ Mechanical Engineering
 
 
 
-🔬 Current Interests
+## 🔬 Current Interests
 
 Machine Learning & Applied AI
 Data-Driven Decision Support Systems
@@ -44,7 +44,7 @@ Analytics Engineering
 Scalable Data Platforms
 
 
-🛠️ Technical Expertise
+## 🛠️ Technical Expertise
 
 Programming & Analytics:
 Python
